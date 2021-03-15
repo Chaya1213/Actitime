@@ -7,5 +7,8 @@ public class CreateContacact {
 	public void createcontact() {
 		System.out.println("Createcontact");
 	}
-
+	@Test
+	public void createcontact(String name) {
+		System.out.println("Createcontact");
+	}
 }

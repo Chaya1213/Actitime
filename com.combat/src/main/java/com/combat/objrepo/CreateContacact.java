@@ -18,6 +18,11 @@ public class CreateContacact {
 	}
 	@Test
 	public void createcontact(int i,String name,String adress) {
+
+
+	}
+	@Test
+	public void createcontact(long l,String name,String adress) {
 		System.out.println("Createcontact");
 	}
 }

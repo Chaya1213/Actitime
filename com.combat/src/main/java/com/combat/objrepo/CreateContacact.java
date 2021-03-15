@@ -16,4 +16,8 @@ public class CreateContacact {
 	public void createcontact(String name,String adress) {
 		System.out.println("Createcontact");
 	}
+	@Test
+	public void createcontact(long l,String name,String adress) {
+		System.out.println("Createcontact");
+	}
 }
